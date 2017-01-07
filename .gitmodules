@@ -1,0 +1,12 @@
+[submodule "boards/Homados"]
+	path = boards/Homados
+	url = https://github.com/nathanshaw/Homados.git
+[submodule "boards/Brigid"]
+	path = boards/Brigid
+	url = https://github.com/nathanshaw/Brigid.git
+[submodule "boards/Hermes"]
+	path = boards/Hermes
+	url = https://github.com/nathanshaw/Hermes.git
+[submodule "boards/server"]
+	path = boards/server
+	url = https://github.com/nathanshaw/robots.git
